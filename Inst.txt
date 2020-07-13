@@ -1,0 +1,10 @@
+IATA terá mecanicas basicas como pular, se movi
+mentar para a frente e para tras e disparar. Com os
+botoes 'd' para ir para a frente e 'a' para ir para tras.
+E com o botao 'j' para disparo de IATA para eliminar
+os inimigos na tela. IATA so podera avancar na tela 
+se os inimigos forem eliminados. O objetivo de IATA
+e chegar no seu maior inimigo JENYA, uma IA feita na
+Russia, para conter o progresso continuo de IATA. 
+IATA sera preparada para o combate final com me
+lhorias que serao oferecidas durante sua jornada.
